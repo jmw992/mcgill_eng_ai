@@ -1,0 +1,22 @@
+I included to main versions of my code, please read Qlearn.py, which is my reinforcement
+learner program.  It requires blockpositions.csv, Sarsa.py,  and ScreenFunc.py, qbert.bin to be in the same folder to run.
+
+readQAct.py is used for when you have a Q lookup table already made, and you want to begin
+learning from that point.  It will run with Ap4qtableEpisode49.csv , you can modify the 
+file name.
+
+To update random seed look around line 22 in Qlearn.py and line 25 readQAct.py
+
+To run file must have ALE installed, navigate to the folder with the code installed and 
+enter
+
+
+
+python QLearn.py qbert.bin
+
+or
+
+python readQAct.py qbert.bin
+
+
+
