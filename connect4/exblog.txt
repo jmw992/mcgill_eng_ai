@@ -1,0 +1,151 @@
+The following game uses a search depth of 5
+Initial Board
+
+O,O, , , , , ,
+X, , , , , , ,
+ , ,X, , ,O, ,
+ , ,X,O, , ,X,
+ , , , ,O,X, ,
+ ,X, , , , , ,
+O, , , , , , ,
+White Moves 0 1 S
+Move has evaluation function value 1000
+
+O, , , , , , ,
+X,O, , , , , ,
+ , ,X, , ,O, ,
+ , ,X,O, , ,X,
+ , , , ,O,X, ,
+ ,X, , , , , ,
+O, , , , , , ,
+Black Moves 4 5 N
+Move has evaluation function value -1000
+
+O, , , , , , ,
+X,O, , , , , ,
+ , ,X, , ,O, ,
+ , ,X,O, ,X,X,
+ , , , ,O, , ,
+ ,X, , , , , ,
+O, , , , , , ,
+White Moves 6 0 N
+Move has evaluation function value 1000
+
+O, , , , , , ,
+X,O, , , , , ,
+ , ,X, , ,O, ,
+ , ,X,O, ,X,X,
+ , , , ,O, , ,
+O,X, , , , , ,
+ , , , , , , ,
+Black Moves 1 0 S
+Move has evaluation function value -1000
+
+O, , , , , , ,
+ ,O, , , , , ,
+X, ,X, , ,O, ,
+ , ,X,O, ,X,X,
+ , , , ,O, , ,
+O,X, , , , , ,
+ , , , , , , ,
+White Moves 5 0 N
+Move has evaluation function value 1000
+
+O, , , , , , ,
+ ,O, , , , , ,
+X, ,X, , ,O, ,
+ , ,X,O, ,X,X,
+O, , , ,O, , ,
+ ,X, , , , , ,
+ , , , , , , ,
+Black Moves 2 0 S
+Move has evaluation function value -1000
+
+O, , , , , , ,
+ ,O, , , , , ,
+ , ,X, , ,O, ,
+X, ,X,O, ,X,X,
+O, , , ,O, , ,
+ ,X, , , , , ,
+ , , , , , , ,
+White Moves 4 0 S
+Move has evaluation function value 1000
+
+O, , , , , , ,
+ ,O, , , , , ,
+ , ,X, , ,O, ,
+X, ,X,O, ,X,X,
+ , , , ,O, , ,
+O,X, , , , , ,
+ , , , , , , ,
+Black Moves 3 0 S
+Move has evaluation function value -888888
+
+O, , , , , , ,
+ ,O, , , , , ,
+ , ,X, , ,O, ,
+ , ,X,O, ,X,X,
+X, , , ,O, , ,
+O,X, , , , , ,
+ , , , , , , ,
+White Moves 5 0 S
+Move has evaluation function value -888888
+
+O, , , , , , ,
+ ,O, , , , , ,
+ , ,X, , ,O, ,
+ , ,X,O, ,X,X,
+X, , , ,O, , ,
+ ,X, , , , , ,
+O, , , , , , ,
+Black Moves 4 0 E
+Move has evaluation function value -888888
+
+O, , , , , , ,
+ ,O, , , , , ,
+ , ,X, , ,O, ,
+ , ,X,O, ,X,X,
+ ,X, , ,O, , ,
+ ,X, , , , , ,
+O, , , , , , ,
+White Moves 6 0 N
+Move has evaluation function value -888888
+
+O, , , , , , ,
+ ,O, , , , , ,
+ , ,X, , ,O, ,
+ , ,X,O, ,X,X,
+ ,X, , ,O, , ,
+O,X, , , , , ,
+ , , , , , , ,
+Black Moves 4 1 E
+Move has evaluation function value -888888
+
+O, , , , , , ,
+ ,O, , , , , ,
+ , ,X, , ,O, ,
+ , ,X,O, ,X,X,
+ , ,X, ,O, , ,
+O,X, , , , , ,
+ , , , , , , ,
+White Moves 5 0 N
+Move has evaluation function value -888888
+
+O, , , , , , ,
+ ,O, , , , , ,
+ , ,X, , ,O, ,
+ , ,X,O, ,X,X,
+O, ,X, ,O, , ,
+ ,X, , , , , ,
+ , , , , , , ,
+Black Moves 5 1 E
+Move has evaluation function value -888888
+
+O, , , , , , ,
+ ,O, , , , , ,
+ , ,X, , ,O, ,
+ , ,X,O, ,X,X,
+O, ,X, ,O, , ,
+ , ,X, , , , ,
+ , , , , , , ,
+14

@@ -1,0 +1,40 @@
+The following game uses a search depth of 6
+Initial Board
+
+ , , , , , , ,
+ , , , , , , ,
+O, ,X, , , , ,
+ , , ,O, , ,X,
+ , , , ,O,X,X,
+ , ,O, , ,O,X,
+ , , ,X,O, , ,
+White Moves 5 5 W
+Move has evaluation function value 888888
+
+ , , , , , , ,
+ , , , , , , ,
+O, ,X, , , , ,
+ , , ,O, , ,X,
+ , , , ,O,X,X,
+ , ,O, ,O, ,X,
+ , , ,X,O, , ,
+Black Moves 2 2 E
+Move has evaluation function value 888888
+
+ , , , , , , ,
+ , , , , , , ,
+O, , ,X, , , ,
+ , , ,O, , ,X,
+ , , , ,O,X,X,
+ , ,O, ,O, ,X,
+ , , ,X,O, , ,
+White Moves 3 3 E
+Move has evaluation function value 888888
+
+ , , , , , , ,
+ , , , , , , ,
+O, , ,X, , , ,
+ , , , ,O, ,X,
+ , , , ,O,X,X,
+ , ,O, ,O, ,X,
+ , , ,X,O, , ,
